@@ -19,14 +19,12 @@ $ cd app
 
 ```sh
 $ yarn
-$ yarn dev
 ```
 
 ### npm
 
 ```sh
 $ npm install
-$ npm start
 ```
 
 ## How to run application
@@ -34,7 +32,7 @@ $ npm start
 ### yarn
 
 ```sh
-$ yarn dev
+$ yarn start
 ```
 
 ### npm
