@@ -1,7 +1,7 @@
  # Simple application developed using:
  ```sh  
  - functional component 
- - arrow functions \
+ - arrow functions
  - useState
  - useEffect
  - useContext
